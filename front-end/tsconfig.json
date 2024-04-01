@@ -1,0 +1,11 @@
+{
+  // https://nuxt.com/docs/guide/concepts/typescript
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "lib": ["DOM", "ESNext"],
+    "incremental": false,
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "strictNullChecks": true
+  }
+}

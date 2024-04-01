@@ -1,0 +1,13 @@
+{
+  "prettier.enable": true,
+  "typescript.tsdk": "front-end/node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "always",
+    "source.sortMembers": "always"
+  },
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  "editor.formatOnSave": false
+}
