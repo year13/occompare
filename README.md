@@ -8,6 +8,7 @@ The aim of this exercise is NOT to come up with the best algorithm but for us to
 
 Feel free to add any of your own touches, library upgrades, containerisation etc. If you're not familiar with Vue on the frontend, feel free to use React.
 
+Don't feel the need to spend too much time on this - we don't expect more than a few hours of work, but keep track of any improvements or further features you would add if you had more time.
 
 ## Submission Criteria
 Depending on what kind of role you're applying for, we'll assess the following:
